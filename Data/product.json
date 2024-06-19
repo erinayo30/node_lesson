@@ -1,0 +1,212 @@
+[
+  {
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "price": 799,
+    "features": ["5G", "OLED display", "Dual camera"],
+    "image": "https://example.com/images/iphone13.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "price": 699,
+    "features": ["5G", "AMOLED display", "Triple camera"],
+    "image": "https://example.com/images/galaxy_s21.jpg"
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 6",
+    "price": 599,
+    "features": ["5G", "OLED display", "Dual camera"],
+    "image": "https://example.com/images/pixel6.jpg"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12",
+    "price": 699,
+    "features": ["5G", "OLED display", "Dual camera"],
+    "image": "https://example.com/images/iphone12.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20",
+    "price": 599,
+    "features": ["5G", "AMOLED display", "Triple camera"],
+    "image": "https://example.com/images/galaxy_s20.jpg"
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 5",
+    "price": 499,
+    "features": ["5G", "OLED display", "Dual camera"],
+    "image": "https://example.com/images/pixel5.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "9 Pro",
+    "price": 969,
+    "features": ["5G", "Fluid AMOLED display", "Quad camera"],
+    "image": "https://example.com/images/oneplus_9_pro.jpg"
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 11",
+    "price": 749,
+    "features": ["5G", "AMOLED display", "Triple camera"],
+    "image": "https://example.com/images/mi_11.jpg"
+  },
+  {
+    "brand": "Oppo",
+    "model": "Find X3 Pro",
+    "price": 1099,
+    "features": ["5G", "AMOLED display", "Quad camera"],
+    "image": "https://example.com/images/find_x3_pro.jpg"
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 1 III",
+    "price": 1199,
+    "features": ["5G", "OLED display", "Triple camera"],
+    "image": "https://example.com/images/xperia_1_iii.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "price": 799,
+    "features": ["5G", "OLED display", "Quad camera"],
+    "image": "https://example.com/images/p40_pro.jpg"
+  },
+  {
+    "brand": "Nokia",
+    "model": "8.3 5G",
+    "price": 599,
+    "features": ["5G", "IPS LCD display", "Quad camera"],
+    "image": "https://example.com/images/nokia_8_3_5g.jpg"
+  },
+  {
+    "brand": "LG",
+    "model": "Velvet",
+    "price": 599,
+    "features": ["5G", "P-OLED display", "Triple camera"],
+    "image": "https://example.com/images/lg_velvet.jpg"
+  },
+  {
+    "brand": "Asus",
+    "model": "ROG Phone 5",
+    "price": 999,
+    "features": ["5G", "AMOLED display", "Triple camera"],
+    "image": "https://example.com/images/rog_phone_5.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge Plus",
+    "price": 999,
+    "features": ["5G", "OLED display", "Triple camera"],
+    "image": "https://example.com/images/edge_plus.jpg"
+  },
+  {
+    "brand": "Realme",
+    "model": "GT",
+    "price": 499,
+    "features": ["5G", "Super AMOLED display", "Triple camera"],
+    "image": "https://example.com/images/realme_gt.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "model": "X60 Pro",
+    "price": 799,
+    "features": ["5G", "AMOLED display", "Triple camera"],
+    "image": "https://example.com/images/x60_pro.jpg"
+  },
+  {
+    "brand": "ZTE",
+    "model": "Axon 30 Ultra",
+    "price": 749,
+    "features": ["5G", "AMOLED display", "Quad camera"],
+    "image": "https://example.com/images/axon_30_ultra.jpg"
+  },
+  {
+    "brand": "Lenovo",
+    "model": "Legion Phone Duel",
+    "price": 899,
+    "features": ["5G", "AMOLED display", "Dual camera"],
+    "image": "https://example.com/images/legion_phone_duel.jpg"
+  },
+  {
+    "brand": "Microsoft",
+    "model": "Surface Duo",
+    "price": 1399,
+    "features": ["4G", "AMOLED display", "Dual camera"],
+    "image": "https://example.com/images/surface_duo.jpg"
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 5 II",
+    "price": 949,
+    "features": ["5G", "OLED display", "Triple camera"],
+    "image": "https://example.com/images/xperia_5_ii.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "8T",
+    "price": 599,
+    "features": ["5G", "Fluid AMOLED display", "Quad camera"],
+    "image": "https://example.com/images/oneplus_8t.jpg"
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10 Pro",
+    "price": 299,
+    "features": ["4G", "AMOLED display", "Quad camera"],
+    "image": "https://example.com/images/redmi_note_10_pro.jpg"
+  },
+  {
+    "brand": "Oppo",
+    "model": "Reno5 Pro",
+    "price": 599,
+    "features": ["5G", "AMOLED display", "Quad camera"],
+    "image": "https://example.com/images/reno5_pro.jpg"
+  },
+  {
+    "brand": "Vivo",
+    "model": "V21",
+    "price": 399,
+    "features": ["5G", "AMOLED display", "Triple camera"],
+    "image": "https://example.com/images/vivo_v21.jpg"
+  },
+  {
+    "brand": "Realme",
+    "model": "X7 Pro",
+    "price": 429,
+    "features": ["5G", "Super AMOLED display", "Quad camera"],
+    "image": "https://example.com/images/realme_x7_pro.jpg"
+  },
+  {
+    "brand": "Nokia",
+    "model": "5.4",
+    "price": 249,
+    "features": ["4G", "IPS LCD display", "Quad camera"],
+    "image": "https://example.com/images/nokia_5_4.jpg"
+  },
+  {
+    "brand": "LG",
+    "model": "Wing",
+    "price": 999,
+    "features": ["5G", "P-OLED display", "Triple camera"],
+    "image": "https://example.com/images/lg_wing.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Note 20",
+    "price": 999,
+    "features": ["5G", "Super AMOLED Plus display", "Triple camera"],
+    "image": "https://example.com/images/galaxy_note_20.jpg"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone SE (2020)",
+    "price": 399,
+    "features": ["4G", "Retina IPS LCD display", "Single camera"],
+    "image": "https://example.com/images/iphone_se_2020.jpg"
+  }
+]
